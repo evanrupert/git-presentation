@@ -4,4 +4,4 @@ line 3
 
 Make another change
 Yet another change
-Some different change to line 7
+Change to line 7 AND Some different change to line 7
