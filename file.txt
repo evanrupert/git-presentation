@@ -4,6 +4,7 @@ line 3
 
 Some crazy expiremental change
 
+Chabnge
 Make another change
 Yet another change
 Change to line 7 AND Some different change to line 7
